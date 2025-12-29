@@ -2,6 +2,13 @@
 
 Based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
+## [ 0.3.2-alpha ] - 2025-12-29
+
+### Changed
+
+- Updated changelog format for better readability.
+- Aligned entries with Keep a Changelog guidelines.
+
 ## [ 0.3.1-alpha ] - 2025-12-28
 
 ### Added
