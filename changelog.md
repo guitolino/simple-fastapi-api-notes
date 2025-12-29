@@ -6,7 +6,7 @@ Based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ### Added
 - FastAPI app with lifespan context
-- Database models `Users` and `Notes`
+- Database models `User` and `Note`
 - Database session handler and `get_db` dependency to get the session
 
 
